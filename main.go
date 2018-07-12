@@ -2,7 +2,7 @@ package main
 
 import "github.com/mitchellh/ioprogress"
 import "github.com/docopt/docopt-go"
-import . "github.com/tj/go-debug"
+import ""
 import "net/http"
 import "strconv"
 import "fmt"
